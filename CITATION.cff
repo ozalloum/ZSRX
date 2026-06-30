@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "ZSRX: Zalloum Synchrotron Radiation Explorer"
+message: "If you use ZSRX, please cite this software."
+type: software
+authors:
+  - family-names: "Zalloum"
+    given-names: "Othman H. Y."
+version: "1.0.0"
+date-released: "2026-06-30"
+abstract: "An interactive scientific visualization platform for synchrotron radiation physics."
+keywords:
+  - synchrotron radiation
+  - scientific visualization
+  - physics education
+  - interactive simulation
+  - Plotly
+  - MathJax
+license: "LicenseRef-All-Rights-Reserved"
+repository-code: "https://github.com/ozalloum/ZSRX"
